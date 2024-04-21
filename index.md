@@ -8,3 +8,7 @@ int main()
   return 0;
 }
 ```
+
+- [ ] Finish coding my Gobang
+- [ ] Finish my English homework
+- [x] Play music games
